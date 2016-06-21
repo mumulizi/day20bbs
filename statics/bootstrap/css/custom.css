@@ -1,0 +1,99 @@
+.page-container{
+    border: 1px dashed darkcyan;
+    padding-left: 150px;
+    padding-right: 150px;
+
+}
+
+.wrap-left{
+    width: 75%;
+    float: left;
+
+}
+.wrap-right{
+    width: 25%;
+    float: right;
+    background-color: darkorange;
+}
+.clear-both{
+    clear: both;
+}
+.footer{
+    background-color: transparent;
+    text-align: center;
+    font-size: large;
+}
+.article-head-img img{
+    height: 215px;
+    width: 280px;
+}
+.article-box{
+    padding-bottom: 10px;
+}
+.article-brief{
+    margin-left: -10px;
+}
+.article-title{
+    font-size: 20px;
+}
+body {
+    color: rgb(51, 51, 51);
+    font-family: Arial, 微软雅黑, 'Microsoft yahei', 'Hiragino Sans GB', '冬青黑体简体中文 w3', 'Microsoft Yahei', 'Hiragino Sans GB', '冬青黑体简体中文 w3', STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif;
+}
+a{
+    color: #333;
+}
+a:hover{
+    color: #337ab7;
+    text-decoration: none;
+}
+.article-brief-text{
+    margin-top: 15px;
+    color: #999;
+}
+.article-brief-info{
+    color: #999999;
+    margin-top: 5px;
+}
+.article-title-bg{
+    font-size: 30px;
+}
+.article-title-brief{
+    color: #999999;
+    margin-top: 10px;
+}
+.article-detail-head-img{
+    margin-top: 25px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.article-content{
+    line-height: 30px;
+}
+.comment-node{
+    border: solid 1px darkgreen;
+    padding: 5px;
+
+}
+
+.root-comment{
+    border: solid 1px red;
+    padding: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
